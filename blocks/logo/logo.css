@@ -1,0 +1,8 @@
+@import url(./_place-header/logo_place-header.css);
+@import url(./_place-footer/logo_place-footer.css);
+
+.logo
+{
+width: 183px;
+height: 32px;
+}
